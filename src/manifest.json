@@ -1,0 +1,10 @@
+{
+	"manifest_version": 2,
+	"name": "SchulLVFree",
+	"version": "1.0",
+	"description": "Unlocks schullv paid content.",
+	"content_scripts": [{
+		"matches": ["*://*.schullv.de/*"],
+		"js": ["free.js"]
+	}]
+}
