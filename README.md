@@ -3,7 +3,7 @@ Firefox Addon for SchulLV
 
 This addon removes content-blocking banners and re-adjusts css to give paid content free.
 How to install:
-1) Download 'firefox-schullv-free.zip'.
+1) Download 'firefox-schullv-free.zip' (https://github.com/birne420/schullv-free/raw/main/firefox-schullv-free.zip).
 2) In Firefox navigate to 'about:debugging#/runtime/this-firefox'.
 3) Click 'Load temporary Add-on'.
 4) Select downloaded zip file.
